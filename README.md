@@ -9,8 +9,9 @@ I like keeping things simple, clean, and practical. Along with that, I’m also 
 ### 🔧 What I work with
 
 * SQL 🧠
+* Python 👨🏻‍💻
 * Power BI 📈
-* Data analysis 📊
+* Excel 𝄜
 * Machine learning (basics) 🤖
 
 ---
